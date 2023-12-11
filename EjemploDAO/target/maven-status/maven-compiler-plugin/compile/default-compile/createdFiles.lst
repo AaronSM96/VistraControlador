@@ -1,0 +1,6 @@
+ec/edu/ups/dao/ejemplodao/dao/ClienteDAO.class
+ec/edu/ups/dao/ejemplodao/idao/IClienteDAO.class
+ec/edu/ups/dao/ejemplodao/EjemploDAO.class
+ec/edu/ups/dao/ejemplodao/vistas/ClienteVista.class
+ec/edu/ups/dao/ejemplodao/controladores/ClienteControlador.class
+ec/edu/ups/dao/ejemplodao/modelo/Cliente.class
